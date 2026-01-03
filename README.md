@@ -7,6 +7,8 @@ A Java program that analyzes text and counts the frequency of each word.
 ## Overview
 This project performs word frequency analysis by processing text input, breaking it into individual words, and counting how often each word appears. Word frequency analysis is a core concept in text analytics, search engines, and natural language processing.
 
+## Dont Forget to input the path for the text file
+
 ## Features
 - Processes text input
 - Counts occurrences of each word
